@@ -259,5 +259,11 @@ For issues and questions:
 
 ---
 
+## Connect With Me
+- **YouTube**: [Subscribe to my channel for tutorials and insights](https://youtube.com/@exify-016?si=ovcvwzTFkgz5ps_5)
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/rahulrnaik_016?igsh=NWhoOGY3N2RvNXV5)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/rahul-r-naik-435614287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 **Note**: This application uses yt-dlp and instaloader libraries. Make sure to keep them updated for the best compatibility with supported platforms.
+
